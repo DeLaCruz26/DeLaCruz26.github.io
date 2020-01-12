@@ -1,11 +1,11 @@
 # Site settings
 author: Dametrik Fick
-title: 
+title: Beginner at Software Engineering
 header-img: img/home-bg.png
 email: dametrik.fick@gmail.com
 copyright_name: Dametrik Fick
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Preparing Myself
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  DeLaCruz26
