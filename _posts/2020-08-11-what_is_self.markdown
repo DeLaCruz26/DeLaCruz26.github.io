@@ -46,7 +46,7 @@ Examples:
   #<Foo:0x00007f8780988c58>
  
   obj.foo
-   "foo" 
+   "foo"  
 
 
 
