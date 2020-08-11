@@ -11,42 +11,42 @@ For example, if you make a new class and create a instance method and inside the
 
 Examples:
 
-> class Dog
+ class Dog
 
->   def show_self
->      puts self *self refers to the object the method is being called on*
->   end
+   def show_self
+      puts self *self refers to the object the method is being called on*
+   end
   
-> end
+ end
 
- => :show_self 
+  :show_self 
  
-> fido = Dog.new
- => #<Dog:0x00007f87809e96e8> 
+ fido = Dog.new
+  #<Dog:0x00007f87809e96e8> 
  
-> fido.showing_self *calling the method on the object returns a Dog instance that is the object*
- =>#<Dog:0x00007f87809e96e8>
+ fido.showing_self *calling the method on the object returns a Dog instance that is the object*
+  #<Dog:0x00007f87809e96e8>
  
  
-> class Foo
+ class Foo
 
->   def foo
->     "foo"
->    end
+   def foo
+     "foo"
+    end
 
->   def bar
->     self.foo *explicit receiver "self" *
->     foo *calls same method on same object but with implicit receiver*
->    end
+   def bar
+     self.foo *explicit receiver "self"*
+     foo *calls same method on same object but with implicit receiver*
+    end
 
-> end
- => :bar 
+ end
+  :bar 
  
-> obj = Foo.new
- => #<Foo:0x00007f8780988c58>
+ obj = Foo.new
+  #<Foo:0x00007f8780988c58>
  
- > obj.foo
- => "foo" 
+  obj.foo
+   "foo" 
 
 
 
