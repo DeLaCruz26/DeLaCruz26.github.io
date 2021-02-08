@@ -1,18 +1,16 @@
 ---
 layout: post
-title:      "The Future Is In Our Fingertips!."
-date:       2020-06-24 02:03:24 +0000
+title:      "JavaScript and Rails!"
+date:       2020-06-23 22:03:25 -0400
 permalink:  the_future_is_in_our_fingertips
 ---
 
 
 
-I’ve always been the how-to guy. The Mr. Fix It, the wanna know how, the get to the nitty gritty of how things work. The nuts and bolts so to speak. Software Engineering holds that same weight. I want to know how it works behind the scenes. The day I decided to study Software Engineering was the day I realized that it could change my life and the future.
+I am going to be honest here, when we first went into JavaScript I was excited to learn it on the simple fact that JavaScript is a pretty common language for most prgrammers to know. But, to my surprise, as the lessons moved along I felt as if I wasn't moving along with the lessons. The lessons seem to pass me by without my mind retaining much of what I either just learned or read. So it is safe to say that JavaScript through me for a doozy in the beginning.
 
-Since I was a young boy, I didn’t mind spending my free time disassembling a VHS player just to reassemble it as soon as I finished. Now, I can’t say all my attemps weren’t successful and I’m pretty sure my parents had a lot of “WTF” moments, but hey, at least I tried. Learning the ins, outs and in-betweens of Software Engineering is so appealing. I want to be able to develope and design dope apps and websites. I aspire to develope the ‘next big thing’ that could potentially better someone’s day-to-day life whether that be something to the likes of Venmo or Flappy Birds.
+However, once I crammed my brain with all the information I could my brain slowly started to pick up on this very popular language. Especially when this project started I had a good idea in my head. I was going to build a block breaker clone. It didn't take long for me to realize that it was actually a little bit more difficult than I thought. I was using html:5 and canvas, but for some odd reason I could not for the life of me get anything to draw on the canvas that I created and selected. I looked up documentation after documention to get a grasp on what I was missing. After literally days of reading and coding, still nothing on my canvas. I eventually came to my own conclusion that it may be a rails thing that won't allow canvas and/or the draw( ) method to work. 
 
-Now that I’ve told you a little about my childhood, let me catch you up to date with where I am at the moment. As I sit typing this blog, I have a rambunctious three year old jumping on loose couch cusions and a crying one year old begging for my pregnant wife’s attention. To study Software Engineering is to learn a skill that will be a necessity for future generations. This is something I would love to pass on to my three children so that they may, too, become Software Engineers if they choose to be.
+My block breaker clone was broke before it was even fixed. I soon gave up on that idea and moved on to plan for something else. That is when I decided to go for a simple note or todo single page app. Either the first week of building our projects wasn't meant to be or I had some bad juju somewhere because, as I am building out my todo app I started having trouble with my terminal and git. When I went to git add, git commit, anything and everything I put inside the quotes of my commit was deleting all my files in my local repo. So it was back to googling and reading trying to figure out where I had messed up. 
 
-To say I don’t dream of a day where I have a drink in my hand and my toes in the sand while simultaneously working my “9 to 5” would be a lie. I am determined to have the freedom and flexibility to work anywhere in the world while spending more quality time with my family. My plan is to become a freelancing Software Enginer whom is versatile in many programming languages.
-
-Overall, I decided to study Software Engineering for myself, my family, and the future. The future is in our hands afterall, or should I say… our fingertips!
+Couple more days go by and now I am starting to get nervous about completing my project in enough time. It was then time to go back to making clone of a game, this time it was a memory game. I guess I should've went with this idea from the start, I've already seen many programmers have a go on this game with there own style. All-in-all, this was a great learning experience and fun to code and see this memory game come together in a working single page app. Now its time for React!
